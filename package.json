@@ -45,5 +45,20 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
-  }
+  },
+  "description": "LIVE URL:https://mehulk05.github.io/COVOID-19/",
+  "main": "karma.conf.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulk05/COVOID-19.git"
+  },
+  "author": "cloudsony999 <cloudsony999@gmail.com> (https://test999.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehulk05/COVOID-19/issues"
+  },
+  "homepage": "https://github.com/mehulk05/COVOID-19#readme"
 }
